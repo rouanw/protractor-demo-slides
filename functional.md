@@ -20,9 +20,9 @@
 
 ## How?
 
-* Tool to describe functionality (we're using Jasmine)
-* A way to call the functionality (we're using Chromedriver/Selenium)
-* Assertions to verify the functionality (we're using Jasmine)
+* Tool to describe functionality
+* A way to call the functionality
+* Assertions to verify the functionality
 
 ---
 
